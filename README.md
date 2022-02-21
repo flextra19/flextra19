@@ -38,4 +38,4 @@ I have developed many successful sites so far with mentioned skills.
 
 
 
-⭐️ From [diamond1020](https://github.com/diamond1020)
+⭐️ From [Diamond1020](https://github.com/diamond1020)
