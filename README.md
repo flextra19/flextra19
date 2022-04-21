@@ -19,7 +19,7 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@layon999](https://t.me/diamond0102)
+- 💬 Telegram : [@diamond0102](https://t.me/diamond0102)
 - 📝 Email : perseusfrozener777@gmail.com
 
 **Languages and Tools:**   
