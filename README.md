@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm [Diamond1020](https://t.me/layon999)  
+### Hey 👋🏽, I'm [Diamond1020] 
 
 <br/>
 
@@ -19,7 +19,6 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@diamond0102](https://t.me/diamond0102)
 - 📝 Email : perseusfrozener777@gmail.com
 
 **Languages and Tools:**   
