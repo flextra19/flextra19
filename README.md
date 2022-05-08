@@ -20,7 +20,7 @@ I have developed many successful sites so far with mentioned skills.
 
 **Connect with me:**
 - 📝 Email : crazyape924@gmail.com
-- 💬 Telegram : @x_crazyape(https://t.me/x_crazyape)
+- 💬 Telegram : [@x_crazyape](https://t.me/x_crazyape)
 
 **Languages and Tools:**   
 
