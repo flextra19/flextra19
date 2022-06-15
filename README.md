@@ -37,4 +37,4 @@ I have developed many successful sites so far with mentioned skills.
 
 
 
-⭐️ From [CrazyApe](https://github.com/FlextraApe)
+⭐️ From [FlextraApe](https://github.com/FlextraApe)
