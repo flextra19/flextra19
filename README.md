@@ -19,7 +19,7 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 📝 Email : perseusfrozener777@gmail.com
+- 📝 Email : preownerf@gmail.com
 - 💬 Telegram : [@SmallJele](https://t.me/SmallJele)
 
 **Languages and Tools:**   
