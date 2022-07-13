@@ -16,11 +16,11 @@ I have developed many successful sites so far with mentioned skills.
 
 - 👨🏽‍💻 I’m currently working as a freelancer on various freelancing platform
 - 🌱 I’m currently learning Edge Computing
-- 📫 Ask me about anything, I am happy to help
+- 📫 Ask me about anything, I am happy to help 
 
 **Connect with me:**
 - 📝 Email : preownerf@gmail.com
-- 💬 Telegram : [@SmallJele](https://t.me/SmallJele)
+- 💬 Telegram : [@kunda777](https://t.me/kunda777)
 
 **Languages and Tools:**   
 
