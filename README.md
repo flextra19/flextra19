@@ -1,23 +1,6 @@
 
 ### Hey 👋🏽, I'm [FlextraApe]
 
-<br/>
-
-Hi, I'm FlextraApe, a Blockchain and Cryptocurrency Developer 🚀, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI and NFT marketplace. I develop website using Solidity, Rust, React.js, Redux, web3.js, Node.js and etc.
-I have developed many successful sites so far with mentioned skills.
-
-####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
-  
- <div>
-  <img align="right" alt="GIF" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="500" height="320" />
-</div>
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working as a freelancer on various freelancing platform
-- 🌱 I’m currently learning Edge Computing
-- 📫 Ask me about anything, I am happy to help
-
 **Connect with me:** 
 - 📝 Email : preownerf@gmail.com
 - 💬 Telegram : [@kunda777](https://t.me/kunda777)
