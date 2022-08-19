@@ -1,6 +1,19 @@
 
 ### Hey 👋🏽, I'm [FlextraApe]
 
+
+Certified Blockchain Developer, developing the Applications in Solidity and
+Fullstack. Experience in developing
+Decentralized Blockchain applications
+using Ethereum and Hyper ledger.
+
+<br/>
+
+  Thanks for visiting my Github profile. As a Certified Blockchain Developer, developing the Applications in Solidity and Fullstack. Experience in developing Decentralized Blockchain applications using Ethereum and Hyper ledger.
+
+  Artificial Intelligence devotee with feeling interested in Computer Vision, Deep Learning, Natural Language Processing and more. I am interested in join to enthusiastic AI team and grows my AI skills.
+<br/>
+
 **Connect with me:** 
 - 📝 Email : preownerf@gmail.com
 - 💬 Telegram : [@johnbusiness7]([https://t.me/kunda777](https://t.me/johnbusiness7))
