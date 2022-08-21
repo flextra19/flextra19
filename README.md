@@ -2,13 +2,12 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm [FlextraApe]
 
 <br/>
-  Thanks for visiting my Github profile. 
+  <p>Thanks for visiting my Github profile. 
   Certified Blockchain Developer, developing the Applications in Solidity and Fullstack. 
-  Experience in developing Decentralized Blockchain applications using Ethereum and Hyper ledger.
+  Experience in developing Decentralized Blockchain applications using Ethereum and Hyper ledger.</p>
 
-
-  Artificial Intelligence devotee with feeling interested in Computer Vision, Deep Learning, Natural Language Processing and more. 
-  I am interested in join to enthusiastic AI team and grows my AI skills.
+  <p>Artificial Intelligence devotee with feeling interested in Computer Vision, Deep Learning, Natural Language Processing and more. 
+  I am interested in join to enthusiastic AI team and grows my AI skills.</p>
 <br/>
 
 **Connect with me:** 
