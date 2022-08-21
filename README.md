@@ -2,7 +2,6 @@
 ### Hey 👋🏽, I'm [FlextraApe]
 
 <br/>
-
   Thanks for visiting my Github profile. 
   Certified Blockchain Developer, developing the Applications in Solidity and Fullstack. 
   Experience in developing Decentralized Blockchain applications using Ethereum and Hyper ledger.
