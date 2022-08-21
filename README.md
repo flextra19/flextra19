@@ -5,7 +5,8 @@
   Thanks for visiting my Github profile. 
   Certified Blockchain Developer, developing the Applications in Solidity and Fullstack. 
   Experience in developing Decentralized Blockchain applications using Ethereum and Hyper ledger.
-<br/>
+
+
   Artificial Intelligence devotee with feeling interested in Computer Vision, Deep Learning, Natural Language Processing and more. 
   I am interested in join to enthusiastic AI team and grows my AI skills.
 <br/>
