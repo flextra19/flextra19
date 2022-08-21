@@ -11,7 +11,7 @@
 
 **Connect with me:** 
 - 📝 Email : preownerf@gmail.com
-- 💬 Telegram : [@johnbusiness7]([https://t.me/kunda777](https://t.me/johnbusiness7))
+- 💬 Telegram : [@johnbusiness7](https://t.me/johnbusiness7)
 
 **Languages and Tools:**   
 
