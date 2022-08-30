@@ -1,7 +1,7 @@
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm [FlextraApe]
 <br/> 
-  <p>Thanks for visiting my Github profile. 
+  <p>Thanks for visiting my Github profile.  
   Certified Blockchain Developer, developing the Applications in Solidity and Fullstack. 
   Experience in developing Decentralized Blockchain applications using Ethereum and Hyper ledger.</p>
 
