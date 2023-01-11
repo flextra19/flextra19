@@ -2,7 +2,7 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello!
 <br/>
   <p>Thanks for visiting my Github profile.</p>
-  <p>Certified Blockchain Developer, developing the Applications in Solidity and Fullstack. 
+  <p>Certified Blockchain Developer, developing the Decentralized Applications on various networks. 
   Experience in developing Decentralized Blockchain applications using Ethereum and Hyper ledger.</p>
 
   <p>Artificial Intelligence devotee with feeling interested in Computer Vision, Deep Learning, Natural Language Processing and more.</p>
