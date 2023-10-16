@@ -29,4 +29,4 @@
 </p> 
 
 Email:  crazyape924@gmail.com  <br />
-Telegram: https://t.me/cryptofan09
+Telegram: https://t.me/nick93924
